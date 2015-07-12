@@ -3,6 +3,7 @@ Type: Package
 Title: R Optimizely API
 Description: R package extracts optimizely test results and test information using Optimizely REST API. Only read functionality is supported for analysis and reporting.
 Version: 0.2.0
+Depends: R (≥ 3.0.0)
 Date: 2015-07-12
 Authors@R: c(
     person("Keerthi", "Chandra", email = "kckeerthi@gmail.com",role = c("aut", "cre")),
