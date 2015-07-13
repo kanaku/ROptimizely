@@ -13,6 +13,4 @@ Maintainer: Keerthi Chandra <kckeerthi@gmail.com>
 License: GPL-2
 Imports: httr,
     jsonlite
-URL: https://github.com/weblytics/ROptimizely
-BugReports: https://github.com/weblytics/ROptimizely
 
