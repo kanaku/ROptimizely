@@ -13,6 +13,9 @@ Maintainer: Keerthi Chandra <kckeerthi@gmail.com>
 License: GPL-2
 Imports: httr,
     jsonlite
+<<<<<<< HEAD
 URL: https://github.com/kanaku/ROptimizely
 BugReports: https://github.com/kanaku/ROptimizely
+=======
+>>>>>>> 01f943d781f240646d7ec45e58f8a93ff292fac7
 
